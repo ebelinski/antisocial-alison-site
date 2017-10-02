@@ -7,15 +7,19 @@ body {
   max-width: 600px;
 }
 
-#logo-container, #alison-container {
+#image-container {
   text-align: center;
 }
 
 #logo {
-  padding-top: 10%;
+  padding-top: 5%;
   width: 40%;
 }
 
 #alison {
   width: 100%;
+}
+
+#screenshot {
+  width: 80%;
 }
