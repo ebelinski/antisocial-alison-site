@@ -2,3 +2,20 @@ body {
   background-color: #5c5c5c;
   color: white;
 }
+
+#content {
+  max-width: 600px;
+}
+
+#logo-container, #alison-container {
+  text-align: center;
+}
+
+#logo {
+  padding-top: 10%;
+  width: 40%;
+}
+
+#alison {
+  width: 100%;
+}
