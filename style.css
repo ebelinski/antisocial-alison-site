@@ -3,6 +3,11 @@ body {
   color: white;
 }
 
+a, a:hover, a:visited {
+  color: white;
+  text-decoration: underline;
+}
+
 #content {
   max-width: 600px;
 }
@@ -27,6 +32,10 @@ body {
 
 .screenshot {
   width: 80%;
+}
+
+#copyright {
+  text-align: center;
 }
 
 @media screen and (max-width: 767px) {
