@@ -1,6 +1,7 @@
 body {
   background-color: #5c5c5c;
   color: white;
+  font-size: 120%;
 }
 
 a, a:hover, a:visited {
@@ -31,6 +32,7 @@ a, a:hover, a:visited {
 }
 
 .screenshot {
+  padding-top: 20px;
   width: 80%;
 }
 
