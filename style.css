@@ -12,7 +12,7 @@ body {
 }
 
 #logo {
-  padding-top: 5%;
+  margin: 5% 50% -10% 0%;
   width: 40%;
 }
 
@@ -20,6 +20,15 @@ body {
   width: 100%;
 }
 
-#screenshot {
+#app-store-button {
+  width: 250px;
+  margin: 5% 0%;
+}
+
+.screenshot {
   width: 80%;
+}
+
+@media screen and (max-width: 767px) {
+
 }
