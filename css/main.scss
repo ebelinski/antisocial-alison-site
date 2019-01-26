@@ -85,6 +85,10 @@ a {
   display: none;
 }
 
+#iphone-video-mobile {
+  margin-bottom: 1em;
+}
+
 @include media-breakpoint-up(sm) {
   #iphone-video-desktop {
     display: block;
