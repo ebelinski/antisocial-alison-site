@@ -1,0 +1,18 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Antisocial Alison
+description: "Meet Alison: a moody girl here to express all your anti-social needs in the form of an iMessages sticker pack."
+author: Adriana Belinski
+keywords: "antisocial, anti, social, alison, tumblr, introvert, funny, cute, chibi, anime, girl, teenage, emo, imessage, sticker, pack"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
