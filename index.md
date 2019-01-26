@@ -21,4 +21,4 @@ Friends trying to invite you to a party?<br>
 Roommate asking you if you ate her delicious ravioli leftovers that she saved from last night?<br>
 *Finger guns.*
 
-Alison and her bag of perfect remarks is here just for you!
+Alison with her bag of perfect remarks is here just for you!
