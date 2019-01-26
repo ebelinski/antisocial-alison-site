@@ -32,15 +32,18 @@ a {
 }
 
 #site-footer {
+  opacity: 0.7;
+
   p {
     display: inline-block;
-    border-top: 5px;
+    border-top: 2px;
     border-left: 0px;
     border-bottom: 0px;
     border-right: 0px;
     border-color: $primary;
     border-style: solid;
-    padding: 0.2em 0em;
+    margin: 0.2em 0em;
+    padding: 0.5em 0em;
     font-size: 0.9em;
   }
 }
